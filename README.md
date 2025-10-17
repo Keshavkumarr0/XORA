@@ -15,27 +15,11 @@
 
 
 
-[Live Demo](https://xora-k5vi.vercel.app/)    A stunning, fully responsive SaaS landing page showcasing modern UI/UX design patterns**
+[Live Demo](https://xora-k5vi.vercel.app/)   ⚡  A stunning, fully responsive SaaS landing page showcasing modern UI/UX design patterns**
 
 </div>
 
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Project Structure](#-project-structure)
-- [Deployment](#-deployment)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
 
 ## 🎯 Overview
 
@@ -55,7 +39,6 @@ This project serves as an excellent starting point for:
 - **Modern Aesthetics** - Clean, contemporary design following latest UI/UX trends
 - **Fully Responsive** - Seamless experience across desktop, tablet, and mobile devices
 - **Smooth Animations** - Engaging micro-interactions and transitions
-- **Dark/Light Theme Ready** - Easy to implement theme switching
 
 ### ⚡ Performance
 - **Lightning Fast** - Optimized with Vite for instant page loads
@@ -134,21 +117,7 @@ Make sure you have the following installed:
    http://localhost:5173
    ```
 
-### Build for Production
 
-```bash
-npm run build
-```
-
-Preview production build:
-```bash
-npm run preview
-```
-
----
-
-
----
 
 ## 🌐 Deployment
 
@@ -172,62 +141,6 @@ This project is deployed on **Vercel** for optimal performance and reliability.
    - AWS S3
    - Any static hosting service
 
----
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/1200x600/646cff/ffffff?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/400x800/38bdf8/ffffff?text=Mobile+View)
-
-> *Replace placeholder images with actual screenshots*
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
-
-## 📞 Contact
-
-**Keshav Kumar**
-
-- GitHub: [@keshavkumarr0](https://github.com/keshavkumarr0)
-- Project Link: [https://github.com/keshavkumarr0/XORA](https://github.com/keshavkumarr0/XORA)
-- Live Demo: [https://xora-k5vi.vercel.app/](https://xora-k5vi.vercel.app/)
-
----
-
-## 🙏 Acknowledgments
-
-- [React Documentation](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [Vercel](https://vercel.com/)
-- [Font Awesome](https://fontawesome.com/)
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you found it helpful!
 
 Made with ❤️ by [Keshav Kumar](https://github.com/keshavkumarr0)
 
-</div>
