@@ -141,23 +141,6 @@ npm run preview
 
 ---
 
-## 📁 Project Structure
-
-```
-XORA/
-├── public/              # Static assets
-├── src/
-│   ├── components/      # Reusable React components
-│   ├── assets/          # Images, icons, fonts
-│   ├── styles/          # Global styles
-│   ├── App.jsx          # Main App component
-│   └── main.jsx         # Application entry point
-├── index.html           # HTML template
-├── package.json         # Project dependencies
-├── tailwind.config.js   # Tailwind CSS configuration
-├── vite.config.js       # Vite configuration
-└── README.md            # Project documentation
-```
 
 ---
 
