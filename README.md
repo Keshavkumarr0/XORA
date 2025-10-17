@@ -15,11 +15,11 @@
 
 
 
-[Live Demo](https://xora-k5vi.vercel.app/) 
+[Live Demo](https://xora-k5vi.vercel.app/)    A stunning, fully responsive SaaS landing page showcasing modern UI/UX design patterns**
 
 </div>
 
-   A stunning, fully responsive SaaS landing page showcasing modern UI/UX design patterns**
+
 ---
 
 ## 📋 Table of Contents
