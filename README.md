@@ -7,7 +7,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.12-38bdf8)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.1-646cff)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
+'
 **A stunning, fully responsive SaaS landing page showcasing modern UI/UX design patterns**
 
 [Live Demo](https://xora-k5vi.vercel.app/) · [Report Bug](https://github.com/keshavkumarr0/XORA/issues) · [Request Feature](https://github.com/keshavkumarr0/XORA/issues)
